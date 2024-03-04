@@ -36,6 +36,11 @@ body{
     background-color: blueviolet;
 }
 
+.form input{
+    display: block;
+    margin: 0 auto;
+}
+
 
 
 
