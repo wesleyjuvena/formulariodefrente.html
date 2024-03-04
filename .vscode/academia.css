@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    color: rgb(227, 221, 222);
+    text-align: center;
+}
+
+.form-academia{
+    margin-top: 20px;
+    
+}
+
+.form-academia input{
+    background-color: chartreuse;
+    font-size: 20px;
+    text-align: center;
+}
+
+.form-academia input::placeholder{
+    color: black;
+    
+}
+
+.form-academia label{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+
+.DDD{
+    color: green;
+    background-color: blue;
+}
+
+.form-academia input:hover{
+    transition: 0.6s;
+    background-color: blueviolet;
+}
+
+
+
+
+
+
+
+
+
+
